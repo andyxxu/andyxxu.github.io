@@ -553,13 +553,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://imfunniee.github.io/gitfolio/blog/my-first-post/top_image.png");
+    url("https://live.staticflickr.com/2832/13444724095_9cb8d468d5_h.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://imfunniee.github.io/gitfolio/blog/my-first-post/top_image.png") center center fixed;
+    url("https://live.staticflickr.com/2832/13444724095_9cb8d468d5_h.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -590,6 +590,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://imfunniee.github.io/gitfolio/blog/my-first-post/top_image.png") !important;
+      url("https://live.staticflickr.com/2832/13444724095_9cb8d468d5_h.jpg") !important;
   }
 }
