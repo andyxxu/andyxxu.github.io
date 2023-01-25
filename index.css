@@ -563,18 +563,6 @@ body {
   --height: 50vh;
 }
 
-#display h1 {
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: #fff;
-}
-
-#blog-display h1 {
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: #fff;
-}
-
 .projects section {
   background: rgb(20, 20, 20);
 }
